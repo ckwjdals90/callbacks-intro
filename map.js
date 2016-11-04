@@ -13,7 +13,8 @@ function elm(index) {
 }
 
 
-
 map(["ground", "control", "to", "major", "tom"], elm);
       // => { return elm.length }
 //return [6, 7, 2, 5, 3]
+
+
